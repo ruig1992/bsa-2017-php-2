@@ -1,0 +1,1 @@
+ALTER TABLE users ADD is_deleted TINYINT(1) DEFAULT 0 NOT NULL;
